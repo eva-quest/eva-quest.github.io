@@ -1,8 +1,13 @@
 const locations = [
-    'https://ms-lestnic.ru/wp-content/uploads/2020/04/podokonnik-shpon-dub-04.jpg',
-    'https://www.stolplit.ru/upload/resize_cache/iblock/b3e/qryc4kil82kle0ajh6hz65fe1ch632z5/350_262_0/i0000368313-detail.jpeg',
-    'https://www.stolplit.ru/upload/resize_cache/iblock/da0/oixnm7lct8zuphh3dy7dk9o09i6bxlni/306_262_0/leon_sb_3369_krovat_1600_beliy_i0000464897_4.jpg',
-    'https://www.stokdivanov.ru/covers/models/divan-ultra-evro-page-38252711891.jpg'
+      "./IMG_2025.jpg",
+  "./IMG_2026.jpg",
+  "./IMG_2027.jpg",
+  "./IMG_2028.jpg",
+  "./IMG_2029.jpg", "IMG_2030.jpg"
+   // 'https://ms-lestnic.ru/wp-content/uploads/2020/04/podokonnik-shpon-dub-04.jpg',
+//    'https://www.stolplit.ru/upload/resize_cache/iblock/b3e/qryc4kil82kle0ajh6hz65fe1ch632z5/350_262_0/i0000368313-detail.jpeg',
+//    'https://www.stolplit.ru/upload/resize_cache/iblock/da0/oixnm7lct8zuphh3dy7dk9o09i6bxlni/306_262_0/leon_sb_3369_krovat_1600_beliy_i0000464897_4.jpg',
+  //  'https://www.stokdivanov.ru/covers/models/divan-ultra-evro-page-38252711891.jpg'
 ];
 
 const ITEM_WIDTH = 320;
